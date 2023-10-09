@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-I'm a passionate double major student in Computer Science and Mathematics at Wilfrid Laurier University, with a keen interest in low-level programming using C++, with most of my energy going into computer graphics.
+I'm a passionate double major student in Computer Science and Mathematics at Wilfrid Laurier University, with a keen interest in low-level programming using C++, with most of my energy going into computer graphics. I am interested in pursuing similar fields such as compilers, embedded, computer vision, and driver development.
 
 ## About Me
 
