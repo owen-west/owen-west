@@ -10,7 +10,7 @@ I'm a passionate double major student in Computer Science and Mathematics at Wil
 
 ## Featured Projects
 
-Here is my most notable GitHub project that reflects my interests and skills:
+Here is my most notable project that reflects my interests and skills:
 
 - ([PPM_Raytracer](https://github.com/owen-west/PPMRaytracer)):
    - Sophisticated raytracer built from scratch in C++ to create realistic 3D renderings, including
