@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-I am a dedicated double major student at Wilfrid Laurier University, double majoring in Computer Science and Mathematics. My passion is centered around computer graphics, and I invest a significant portion of my energy into exploring this field.
+I am a student at Wilfrid Laurier University, double majoring in Computer Science and Mathematics. My passion is centered around computer graphics, and I invest a significant portion of my energy into exploring this field.
 
 ## Featured Projects
 
