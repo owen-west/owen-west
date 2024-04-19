@@ -1,11 +1,6 @@
 # Welcome to My GitHub Profile!
 
-I am a dedicated double major student at Wilfrid Laurier University, majoring in Computer Science and Mathematics. My passion is centered around computer graphics, and I invest a significant portion of my energy into exploring this field.
-
-## About Me
-
-- 🎓 Double Major: Computer Science & Mathematics at Wilfrid Laurier University
-- 🎨 Enthusiastic about Computer Graphics
+I am a dedicated double major student at Wilfrid Laurier University, double majoring in Computer Science and Mathematics. My passion is centered around computer graphics, and I invest a significant portion of my energy into exploring this field.
 
 ## Featured Projects
 
@@ -23,9 +18,9 @@ maintaining high-quality output, demonstrating strong problem-solving and self-m
 
 ## Technical Skills
 
-- **Programming Languages:** C, C++, HLSL, Python, C#
-- **Tools:** Visual Studio, PIX, Git, GitHub
-- **Technologies:** Direct3D 11/12, DXR (DirectX Raytracing)
+- **Main Programming Languages:** C++, Python, HLSL
+- **Tools:** Visual Studio, PIX, Git
+- **Technologies:** Direct3D 12, DirectX Raytracing
 
 ## How to Reach Me
 
